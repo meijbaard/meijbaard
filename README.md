@@ -1,40 +1,53 @@
 # 👋 Hi, ik ben @meijbaard
 
-Ik ben een ontwikkelaar met een passie voor het bouwen van praktische applicaties die data toegankelijk en bruikbaar maken. Ik focus me op het automatiseren van workflows en het omzetten van ongestructureerde tekst naar waardevolle, gestructureerde informatie.
+Ik ben een ontwikkelaar met een passie voor het bouwen van applicaties die data tot leven brengen. Mijn focus ligt op het visualiseren van open data en het omzetten van ongestructureerde informatie naar waardevolle, doorzoekbare kennis.
 
 ---
 
 ## 🚀 Waar ik aan werk
 
-Hieronder een paar van de projecten waar ik recentelijk aan heb gewerkt:
+Hieronder een paar projecten die laten zien waar ik me mee bezighoud:
 
-### 1. 🚆 Treinbericht Parser
-Een slimme web-app die WhatsApp-berichten over goederentreinen analyseert. De tool herkent afkortingen van stations, zet deze om naar volledige namen, en kan op basis van de route een schatting geven van passage-tijden.
-* **Technieken:** HTML, CSS (Tailwind), JavaScript, JSON, CSV-parsing.
-* **Focus:** Data-extractie, string-manipulatie en het bouwen van een dynamische front-end.
-
-### 2. 🏛️ Raadsverslag Indexer
+### 1. 📝 MeetingParser
 Een prototype applicatie om PDF-verslagen van gemeenteraadsvergaderingen te indexeren. De tool extraheert automatisch de datum, de besproken onderwerpen en wie wat heeft gezegd per agendapunt, waardoor politieke besluitvorming makkelijker doorzoekbaar wordt.
-* **Technieken:** JavaScript, `pdf.js` bibliotheek, Reguliere Expressies (Regex).
-* **Focus:** PDF-parsing, informatie-extractie uit ongestructureerde documenten.
+* **Technieken:** JavaScript, `pdf.js`, Reguliere Expressies (Regex).
+* **Focus:** PDF-parsing, informatie-extractie uit ongestructureerde documenten, NLP.
+
+### 2. 📊 ElectionDashboard
+Een interactief dashboard dat de verkiezingsresultaten van de gemeente Baarn visualiseert. De applicatie maakt het eenvoudig om stempatronen en uitslagen per stembureau te analyseren, waardoor lokale democratie transparanter wordt.
+* **Technieken:** HTML, CSS, JavaScript, Data Visualisatie.
+* **Focus:** Civic Tech, open data, bouwen van een dynamische en gebruiksvriendelijke front-end.
+
+### 3. 📈 LocalDashboard
+Een lokaal dashboard dat gebruikmaakt van open data van het Centraal Bureau voor de Statistiek (CBS). Dit project toont hoe publieke datasets kunnen worden ingezet om lokale en regionale trends inzichtelijk te maken.
+* **Technieken:** JavaScript, API-integratie (CBS Open Data), HTML.
+* **Focus:** Werken met publieke API's, data-analyse en -visualisatie.
+
+### 4. 🔄 SpotConverter
+Een handige web-app voor het converteren en manipuleren van data. Dit project focust op het bieden van een simpele interface voor een specifieke conversietaak.
+* **Technieken:** HTML, CSS, JavaScript.
+* **Focus:** Front-end development, data-manipulatie, user experience.
 
 ---
 
 ## 💻 Technologieën & Skills
 
-* **Tooling:** AI
+* **Talen:** JavaScript, HTML/CSS
+* **Focusgebieden:** Data Visualisatie, PDF-parsing, Informatie-extractie, API-integratie, Front-end Development
+* **Technieken:** Reguliere Expressies (Regex), `pdf.js`
+* **Concepten:** Open Data, Civic Tech, Natural Language Processing (NLP)
 
 ---
 
 ## 👀 Interesses
 
-* **Open Data:** Het toegankelijk maken van publieke data (zoals openbaar vervoer en overheidsdocumenten).
-* **Automatisering:** Het stroomlijnen van processen en het verbinden van verschillende applicaties.
-* **Natural Language Processing (NLP):** Het analyseren en structureren van menselijke taal in tekst.
-* **Civic Tech:** Technologie inzetten voor maatschappelijke en democratische doeleinden.
+* **Open Data:** Het toegankelijk en bruikbaar maken van publieke data (overheid, verkiezingen, statistiek).
+* **Civic Tech:** Technologie inzetten om de democratie en maatschappelijke betrokkenheid te versterken.
+* **Natural Language Processing (NLP):** Het analyseren en structureren van menselijke taal in ongestructureerde documenten.
+* **Data Visualisatie:** Complexe informatie omzetten in heldere, interactieve grafieken en kaarten.
 
 ---
 
 ## 📫 Contact
 
-* Je kunt me een DM sturen hier op GitHub.
+* Je kunt me altijd een bericht sturen hier op GitHub.
